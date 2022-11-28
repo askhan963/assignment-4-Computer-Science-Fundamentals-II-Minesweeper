@@ -1,7 +1,7 @@
-Tittle
-assignment-4-Computer-Science-Fundamentals-II-Minesweeper
-Description
-Minesweeper is a solitaire computer game in which there are bombs hidden in a grid of cells, 
+# Tittle
+## assignment-4-Computer-Science-Fundamentals-II-Minesweeper
+# Description
+ Minesweeper is a solitaire computer game in which there are bombs hidden in a grid of cells, 
 and the objective is to clear out all the non-bomb cells without hitting a bomb. If a bomb is 
 clicked, the game is over in failure.
 To help the player determine where the bombs are located, the other cells contain a number 
@@ -14,5 +14,8 @@ those 0-cells. Figure 1 shows examples of 3 cleared regions. For each of these r
 the inner 0-cells was clicked, and the surrounding region was consequently cleared.
 
 
-Need the assignmnt
-Contact me on : awaiskhanniazi963@gmail.com
+# Need the assignmnt
+## Contact me on : 
+### awaiskhanniazi963@gmail.com
+### Or
+### WhatsApp : +923045344963
